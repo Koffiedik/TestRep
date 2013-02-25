@@ -1,5 +1,5 @@
 #################
-## Eclipse
+## Eclipsefku
 #################
 
 *.pydevproject
@@ -9,7 +9,7 @@ bin/
 tmp/
 *.tmp
 *.bak
-*.swp fuck you
+*.swp
 *~.nib
 local.properties
 .classpath
