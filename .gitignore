@@ -9,12 +9,12 @@ bin/
 tmp/
 *.tmp
 *.bak
-*.swp
+*.swp fuck you
 *~.nib
 local.properties
 .classpath
 .settings/
-.loadpathh
+.loadpath
 
 # External tool builders
 .externalToolBuilders/
